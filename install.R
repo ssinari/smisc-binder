@@ -1,2 +1,2 @@
 library(devtools)
-github_install("ssinari/smisc")
+install_github("ssinari/smisc")
