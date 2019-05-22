@@ -1,3 +1,3 @@
 # Intro
 Binder of RStudio instance with smisc install.
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/<GITHUB_USER>/<REPO>/<BRANCH>?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ssinari/smisc_install/master)
